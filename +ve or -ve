@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+void main()
+{
+    int k;
+    scanf("%d",&k);
+     (k>=0)?printf("positive"): printf("negitive");
+    
+}
